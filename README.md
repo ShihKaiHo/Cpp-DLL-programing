@@ -1,1 +1,1 @@
-# Dynamic-link-library
+# C++ Dynamic link library Programing example
